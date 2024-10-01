@@ -4,9 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kleeedolinux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
@@ -35,6 +33,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://pride-badges.pony.workers.dev/static/v1?label=Trasgender+People&labelColor=%23LGBT&stripeWidth=8&stripeColors=5BCEFA%2CF5A9B8%2CFFFFFF%2CF5A9B8%2C5BCEFA" height="35" alt="transgender pride badge" />
 </div>
 
 ###
@@ -74,3 +73,6 @@ Vamos juntos nessa jornada de descoberta e inovação!
 ## Conecte-se Comigo
 
 Sinta-se à vontade para me contatar ou seguir meus projetos. Estou sempre aberta a novas ideias e colaborações! 🌟
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
