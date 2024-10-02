@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is Klee and I'm a tech enthusiast from Brazil.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleeedolinux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -25,7 +17,9 @@
 ## About Me
 
 I'm a technology and innovation enthusiast passionate about creating and solving problems. My journey into programming started with Python, Lua, and Node.js, and I continue to explore other languages. 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kleeedolinux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+</div>
 ## Projects
 
 Currently, I’m engaged in various projects that challenge and teach me constantly. I’ve created private repositories, such as **Bossaprotocol**, and adapted **PHPBank** for **NeoBank**, a project aimed at micronational banks. I'm also diving into game development and social media, where I believe we can create experiences that genuinely connect people.
