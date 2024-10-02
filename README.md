@@ -21,12 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
-### 
-<div align="center">
-<img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
-<img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
-</div>
-###
 
 ## About Me
 
@@ -53,6 +47,11 @@ I believe we should be open to learning from everyone, regardless of their backg
 **It doesn’t make sense to look back and think: I should have done this or that, I should have been there. That doesn’t matter. Let’s invent tomorrow and stop worrying about the past.** — *Steve Jobs*
 
 **Success is a lousy teacher. It seduces smart people into thinking they can't lose.** — *Bill Gates*
+
+<div align="center">
+<img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
+<img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## My Perspective
 
