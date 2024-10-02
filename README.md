@@ -22,12 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
 ### 
-<img align="center" height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
-
-<br clear="both">
-
+<div align="center">
+<img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
 <img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 ## About Me
