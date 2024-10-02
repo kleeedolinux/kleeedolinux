@@ -24,7 +24,7 @@ I'm a technology and innovation enthusiast passionate about creating and solving
 
 ## Projects
 
-Currently, I’m engaged in various projects that challenge and teach me constantly. I’ve created private repositories, such as **Bossaprotocol**, and adapted **PHPBank** for **NeoBank**, a project aimed at micronational banks. I'm also diving into game development and social media, where I believe we can create experiences that genuinely connect people.
+Currently, I’m engaged in various projects that challenge and teach me constantly. I’ve created private repositories, such as **Bossaprotocol**, and adapted **PHPBank** for [**NeoBank**](https://github.com/Free-Republic-of-Embau/NeoBank), a project aimed at micronational banks. I'm also diving into game development and social media, where I believe we can create experiences that genuinely connect people.
 
 ## Education
 
