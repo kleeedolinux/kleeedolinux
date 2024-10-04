@@ -58,7 +58,8 @@ Let’s embark on this journey of discovery and innovation together!
 
 ## Connect with Me
 I'm learning GMLscript!
-  <img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
+<br>
+<img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
   <br>
 Feel free to reach out or follow my projects. I'm always open to new ideas and collaborations! 🌟
 <div align="left">
