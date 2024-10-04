@@ -13,7 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
 </div>
 
 ## About Me
@@ -59,6 +58,8 @@ Let’s embark on this journey of discovery and innovation together!
 
 ## Connect with Me
 I'm learning GMLscript!
+  <img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
+  <br>
 Feel free to reach out or follow my projects. I'm always open to new ideas and collaborations! 🌟
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
