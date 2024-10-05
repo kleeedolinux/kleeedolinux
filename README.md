@@ -57,7 +57,7 @@ Life is a continuous learning experience, and I am always seeking new challenges
 Let’s embark on this journey of discovery and innovation together!
 
 ## Connect with Me
-I'm learning GMLscript!
+I'm learning GML!
 <br>
 <img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
   <br>
