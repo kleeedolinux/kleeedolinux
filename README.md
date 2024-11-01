@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Klee and I'm a tech enthusiast from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Klee and I'm a tech enthusiast from Brazil. And I'm one of the last Gen Z Ruby programmers.</h2>
+
+<div align="left">
+<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" height="30" alt="ruby logo" />
+<img width="12" />
+<p>The best language in the world</p>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
