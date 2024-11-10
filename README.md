@@ -53,8 +53,7 @@ I believe we should be open to learning from everyone, regardless of their backg
 
 <div align="center">
 <img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
-<img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
-</div>
+<figure><embed src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/6ec96a13-55fb-412a-872e-dc6bd61ad47c.svg"></embed></figure>
 
 ## My Perspective
 
@@ -78,5 +77,7 @@ Feel free to reach out or follow my projects. I'm always open to new ideas and c
 </div>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
+</div>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
