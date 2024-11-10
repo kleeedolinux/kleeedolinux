@@ -53,7 +53,8 @@ I believe we should be open to learning from everyone, regardless of their backg
 
 <div align="center">
 <img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
-<figure><embed src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/6ec96a13-55fb-412a-872e-dc6bd61ad47c.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My Perspective
 
