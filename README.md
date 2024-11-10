@@ -53,9 +53,7 @@ I believe we should be open to learning from everyone, regardless of their backg
 
 <div align="center">
 <img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/95e1e4a0-4ed5-48ca-a701-65a687c26b5c.png" /></a>
 ## My Perspective
 
 Life is a continuous learning experience, and I am always seeking new challenges and opportunities to grow. It doesn’t make sense to look back and think, _“I should have done this or that.”_ What truly matters is inventing tomorrow.
