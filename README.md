@@ -54,9 +54,6 @@ I believe we should be open to learning from everyone, regardless of their backg
 <div align="center">
 <img height="140" src="https://media1.tenor.com/m/MM3La2Dx0c4AAAAC/onimai-cute-anime-girl-smile-smiling.gif" />
 </div>
-<div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/95e1e4a0-4ed5-48ca-a701-65a687c26b5c.png" /></a>
-</div>
 ## My Perspective
 
 Life is a continuous learning experience, and I am always seeking new challenges and opportunities to grow. It doesn’t make sense to look back and think, _“I should have done this or that.”_ What truly matters is inventing tomorrow.
@@ -80,6 +77,6 @@ Feel free to reach out or follow my projects. I'm always open to new ideas and c
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
-</div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<div align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/95e1e4a0-4ed5-48ca-a701-65a687c26b5c.png" /></a>
 </div>
