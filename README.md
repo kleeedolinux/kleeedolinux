@@ -78,5 +78,5 @@ Feel free to reach out or follow my projects. I'm always open to new ideas and c
 <div align="center">
 <img src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="Snake animation" />
 <div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/95e1e4a0-4ed5-48ca-a701-65a687c26b5c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@95f715cc-56e0-426d-85cd-da0128353b94/79fa7eea-d105-4207-b081-e730aa9548f5.png" /></a>
 </div>
