@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Klee and I'm a tech enthusiast from Brazil.</h2>
 
-<br>
-<img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" height="30" alt="gamemaker" />  
-  <br>
 Feel free to reach out or follow my projects. I'm always open to new ideas and collaborations! 🌟
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
