@@ -1,0 +1,9 @@
+{
+  "projects": [
+    {
+      "type": "repo",
+      "target": "kleeedolinux/kleeedolinux",
+      "label": "profile automation"
+    }
+  ]
+}
