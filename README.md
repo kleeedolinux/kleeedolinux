@@ -16,18 +16,31 @@
 <!-- PROFILE-INTEL:START -->
 <table align="center">
   <tr>
-    <td align="center"><strong>auto</strong><br/>year contributions</td>
-    <td align="center"><strong>auto</strong><br/>commit signal incl. private</td>
-    <td align="center"><strong>auto</strong><br/>pull requests</td>
-    <td align="center"><strong>auto</strong><br/>reviews</td>
+    <td align="center"><strong>1.7k</strong><br/>year contributions</td>
+    <td align="center"><strong>1.6k</strong><br/>commit signal incl. private</td>
+    <td align="center"><strong>5</strong><br/>pull requests</td>
+    <td align="center"><strong>0</strong><br/>reviews</td>
   </tr>
   <tr>
-    <td align="center"><strong>auto</strong><br/>issues</td>
-    <td align="center"><strong>auto</strong><br/>stars</td>
-    <td align="center"><strong>auto</strong><br/>forks</td>
-    <td align="center"><strong>auto</strong><br/>indexed commits</td>
+    <td align="center"><strong>4</strong><br/>issues</td>
+    <td align="center"><strong>59</strong><br/>stars</td>
+    <td align="center"><strong>8</strong><br/>forks</td>
+    <td align="center"><strong>69k</strong><br/>indexed commits</td>
   </tr>
 </table>
+
+<p align="center"><sub>252/365 active days - best day 2026-06-22 / 93 - 1.4k private-visible</sub></p>
+
+<details>
+<summary><strong>top repositories</strong></summary>
+
+- [kleeedolinux/SolVM](https://github.com/kleeedolinux/SolVM) - 19 stars, 0 forks, Go
+- [kleeedolinux/KleeStores](https://github.com/kleeedolinux/KleeStores) - 14 stars, 0 forks, C#
+- [kleeedolinux/tabnews-cli](https://github.com/kleeedolinux/tabnews-cli) - 4 stars, 1 forks, Python
+- [kleeedolinux/jdruby](https://github.com/kleeedolinux/jdruby) - 4 stars, 0 forks, Rust
+- [kleeedolinux/disk-analyzer](https://github.com/kleeedolinux/disk-analyzer) - 3 stars, 0 forks, Rust
+
+</details>
 
 <table align="center">
   <tr>
@@ -38,13 +51,64 @@
     <th>year commits</th>
   </tr>
   <tr>
-    <td align="center">auto</td>
-    <td align="center">next run</td>
-    <td align="center">auto</td>
-    <td align="center">auto</td>
-    <td align="center">auto</td>
+    <td align="center">#1</td>
+    <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
+    <td align="center">22k</td>
+    <td align="center">788</td>
+    <td align="center">1.5k</td>
+  </tr>
+  <tr>
+    <td align="center">#2</td>
+    <td align="center"><a href="https://github.com/GalactHD">GalactHD</a></td>
+    <td align="center">28</td>
+    <td align="center">11</td>
+    <td align="center">1.4k</td>
+  </tr>
+  <tr>
+    <td align="center">#3</td>
+    <td align="center"><a href="https://github.com/StunxFS">StunxFS</a></td>
+    <td align="center">54</td>
+    <td align="center">67</td>
+    <td align="center">1.1k</td>
+  </tr>
+  <tr>
+    <td align="center">#4</td>
+    <td align="center"><a href="https://github.com/campoyerick">campoyerick</a></td>
+    <td align="center">10</td>
+    <td align="center">5</td>
+    <td align="center">1.3k</td>
+  </tr>
+  <tr>
+    <td align="center">#5</td>
+    <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
+    <td align="center">28</td>
+    <td align="center">42</td>
+    <td align="center">790</td>
+  </tr>
+  <tr>
+    <td align="center">#6</td>
+    <td align="center"><a href="https://github.com/simples1">simples1</a></td>
+    <td align="center">200</td>
+    <td align="center">35</td>
+    <td align="center">40</td>
+  </tr>
+  <tr>
+    <td align="center">#7</td>
+    <td align="center"><a href="https://github.com/yanlvl99">yanlvl99</a></td>
+    <td align="center">6</td>
+    <td align="center">2</td>
+    <td align="center">457</td>
+  </tr>
+  <tr>
+    <td align="center">#8</td>
+    <td align="center"><a href="https://github.com/userick17">userick17</a></td>
+    <td align="center">106</td>
+    <td align="center">3</td>
+    <td align="center">1</td>
   </tr>
 </table>
+
+<p align="center"><sub>2026-06-23 07:23 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
