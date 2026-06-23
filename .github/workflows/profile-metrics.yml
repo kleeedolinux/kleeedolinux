@@ -46,7 +46,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_people: yes
-          plugin_people_types: followers
+          plugin_people_types: followers, following
           plugin_people_limit: 24
 
       - name: Compact repository intelligence

@@ -9,7 +9,6 @@ on:
       - main
     paths:
       - "README.md"
-      - "profile-special-projects.json"
       - "scripts/update_profile_intel.py"
       - ".github/workflows/profile-intel.yml"
 
@@ -36,5 +35,5 @@ jobs:
       - name: Commit README refresh
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update generated profile intelligence"
-          file_pattern: README.md assets/profile/*.svg profile-special-projects.json
+          commit_message: "Update profile intelligence"
+          file_pattern: README.md

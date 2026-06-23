@@ -13,17 +13,119 @@
   <img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/output/snake.svg" alt="contribution snake" />
 </p>
 
+<!-- PROFILE-INTEL:START -->
+<table align="center">
+  <tr>
+    <td align="center"><strong>1.7k</strong><br/>year contributions</td>
+    <td align="center"><strong>1.6k</strong><br/>commit signal incl. private</td>
+    <td align="center"><strong>5</strong><br/>pull requests</td>
+    <td align="center"><strong>0</strong><br/>reviews</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>4</strong><br/>issues</td>
+    <td align="center"><strong>59</strong><br/>stars</td>
+    <td align="center"><strong>8</strong><br/>forks</td>
+    <td align="center"><strong>69k</strong><br/>indexed commits</td>
+  </tr>
+</table>
+
+<p align="center"><sub>252/365 active days - best day 2026-06-22 / 93 - 1.4k private-visible</sub></p>
+
+<details>
+<summary><strong>top repositories</strong></summary>
+
+- [kleeedolinux/SolVM](https://github.com/kleeedolinux/SolVM) - 19 stars, 0 forks, Go
+- [kleeedolinux/KleeStores](https://github.com/kleeedolinux/KleeStores) - 14 stars, 0 forks, C#
+- [kleeedolinux/tabnews-cli](https://github.com/kleeedolinux/tabnews-cli) - 4 stars, 1 forks, Python
+- [kleeedolinux/jdruby](https://github.com/kleeedolinux/jdruby) - 4 stars, 0 forks, Rust
+- [kleeedolinux/disk-analyzer](https://github.com/kleeedolinux/disk-analyzer) - 3 stars, 0 forks, Rust
+
+</details>
+
+<table align="center">
+  <tr>
+    <th>follower rank</th>
+    <th>profile</th>
+    <th>followers</th>
+    <th>repo stars</th>
+    <th>year commits</th>
+  </tr>
+  <tr>
+    <td align="center">#1</td>
+    <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
+    <td align="center">22k</td>
+    <td align="center">788</td>
+    <td align="center">1.5k</td>
+  </tr>
+  <tr>
+    <td align="center">#2</td>
+    <td align="center"><a href="https://github.com/GalactHD">GalactHD</a></td>
+    <td align="center">28</td>
+    <td align="center">11</td>
+    <td align="center">1.4k</td>
+  </tr>
+  <tr>
+    <td align="center">#3</td>
+    <td align="center"><a href="https://github.com/StunxFS">StunxFS</a></td>
+    <td align="center">54</td>
+    <td align="center">67</td>
+    <td align="center">1.1k</td>
+  </tr>
+  <tr>
+    <td align="center">#4</td>
+    <td align="center"><a href="https://github.com/campoyerick">campoyerick</a></td>
+    <td align="center">10</td>
+    <td align="center">5</td>
+    <td align="center">1.3k</td>
+  </tr>
+  <tr>
+    <td align="center">#5</td>
+    <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
+    <td align="center">28</td>
+    <td align="center">42</td>
+    <td align="center">790</td>
+  </tr>
+  <tr>
+    <td align="center">#6</td>
+    <td align="center"><a href="https://github.com/simples1">simples1</a></td>
+    <td align="center">200</td>
+    <td align="center">35</td>
+    <td align="center">40</td>
+  </tr>
+  <tr>
+    <td align="center">#7</td>
+    <td align="center"><a href="https://github.com/yanlvl99">yanlvl99</a></td>
+    <td align="center">6</td>
+    <td align="center">2</td>
+    <td align="center">457</td>
+  </tr>
+  <tr>
+    <td align="center">#8</td>
+    <td align="center"><a href="https://github.com/userick17">userick17</a></td>
+    <td align="center">106</td>
+    <td align="center">3</td>
+    <td align="center">1</td>
+  </tr>
+</table>
+
+<p align="center"><sub>2026-06-23 07:23 UTC</sub></p>
+<!-- PROFILE-INTEL:END -->
+
 <div align="center">
 
-<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/main/assets/profile/engineering-ledger.svg" alt="generated engineering ledger" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kleeedolinux&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=commit%20/%20PR%20/%20issue%20surface" alt="stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=kleeedolinux&theme=transparent&hide_border=true&mode=weekly&card_width=495" alt="streak" />
 
-<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/main/assets/profile/followers-rank.svg" alt="generated ranking of people who follow Klee" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kleeedolinux&theme=github-compact&hide_border=true&area=true&custom_title=contribution%20velocity" alt="activity graph" />
 
-<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/main/assets/profile/activity-radar.svg" alt="generated contribution activity radar" />
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=kleeedolinux&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
-<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/main/assets/profile/achievements.svg" alt="generated local achievement board" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&layout=compact&langs_count=8&hide_border=true&theme=transparent&hide=html,css&card_width=495" alt="languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=kleeedolinux&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" alt="top contributed repositories" />
 
-<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/main/assets/profile/special-projects.svg" alt="generated special project cards" />
+<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/metrics/github-metrics.svg" alt="generated full GitHub metrics" />
+
+<img width="98%" src="https://raw.githubusercontent.com/kleeedolinux/kleeedolinux/metrics/github-repositories.svg" alt="generated repository intelligence" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:111827,55:0f766e,100:0f172a" alt="footer wave" />
 
