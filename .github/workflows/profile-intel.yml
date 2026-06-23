@@ -1,0 +1,39 @@
+name: Update profile intelligence
+
+on:
+  schedule:
+    - cron: "9 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/update_profile_intel.py"
+      - ".github/workflows/profile-intel.yml"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate GitHub evidence block
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/update_profile_intel.py
+
+      - name: Commit README refresh
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update profile intelligence"
+          file_pattern: README.md
