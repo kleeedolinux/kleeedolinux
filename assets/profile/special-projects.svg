@@ -1,13 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="930" height="500" viewBox="0 0 930 500" role="img" aria-label="special projects">
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="52%" stop-color="#0f766e"/><stop offset="100%" stop-color="#111827"/></linearGradient>
-    <style>.title{font:800 28px ui-monospace,Menlo,Consolas,monospace;fill:#ecfeff}.small{font:500 12px ui-monospace,Menlo,Consolas,monospace;fill:#cbd5e1}.value{font:800 21px ui-monospace,Menlo,Consolas,monospace;fill:#fff}</style>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title { font: 800 28px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ecfeff; }
+      .meta { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #a7f3d0; }
+      .label { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ccfbf1; }
+      .value { font: 800 21px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #ffffff; }
+      .small { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #cbd5e1; }
+      .rank { font: 900 20px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5eead4; }
+    </style>
   </defs>
   <rect width="930" height="500" rx="22" fill="url(#bg)"/>
-  <circle cx="72" cy="34" r="6" fill="#5eead4"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+  <rect x="1" y="1" width="928" height="498" rx="21" fill="none" stroke="#5eead4" stroke-opacity=".38"/>
+  <circle cx="72" cy="34" r="6" fill="#5eead4" filter="url(#glow)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
   <text x="92" y="43" class="title">special projects</text>
-  <rect x="36" y="92" width="858" height="300" rx="18" fill="#020617" fill-opacity=".42" stroke="#99f6e4" stroke-opacity=".2"/>
-  <text x="64" y="168" class="value">repo / org cards</text>
-  <text x="64" y="210" class="small">add targets to profile-special-projects.json; workflow renders stars, forks, commits, language, and links</text>
-  <rect x="64" y="250" width="520" height="8" rx="4" fill="#5eead4" opacity=".78"><animate attributeName="width" values="24;520" dur="1.3s" fill="freeze"/></rect>
+  <text x="685" y="482" class="meta">generated 2026-06-23 07:32 UTC</text>
+<a href="https://github.com/kleeedolinux/kleeedolinux">
+<rect x="38" y="84" width="388" height="100" rx="16" fill="#020617" fill-opacity=".46" stroke="#99f6e4" stroke-opacity=".25"/>
+<text x="56" y="112" class="label">profile automation / repo</text>
+<text x="56" y="140" class="value">kleeedolinux/kleeedolinux</text>
+<text x="56" y="166" class="small">Python - ★ 0 - forks 0 - commits 4</text>
+</a>
 </svg>
