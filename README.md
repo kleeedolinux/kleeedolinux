@@ -16,8 +16,8 @@
 <!-- PROFILE-INTEL:START -->
 <table align="center">
   <tr>
-    <td align="center"><strong>1.7k</strong><br/>year contributions</td>
-    <td align="center"><strong>1.6k</strong><br/>commit signal incl. private</td>
+    <td align="center"><strong>1.9k</strong><br/>year contributions</td>
+    <td align="center"><strong>1.8k</strong><br/>commit signal incl. private</td>
     <td align="center"><strong>5</strong><br/>pull requests</td>
     <td align="center"><strong>0</strong><br/>reviews</td>
   </tr>
@@ -25,11 +25,11 @@
     <td align="center"><strong>4</strong><br/>issues</td>
     <td align="center"><strong>59</strong><br/>stars</td>
     <td align="center"><strong>8</strong><br/>forks</td>
-    <td align="center"><strong>69k</strong><br/>indexed commits</td>
+    <td align="center"><strong>251k</strong><br/>indexed commits</td>
   </tr>
 </table>
 
-<p align="center"><sub>252/365 active days - best day 2026-06-22 / 93 - 1.4k private-visible</sub></p>
+<p align="center"><sub>253/365 active days - best day 2026-06-23 / 238 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -88,7 +88,7 @@
   <tr>
     <td align="center">#6</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">200</td>
+    <td align="center">201</td>
     <td align="center">35</td>
     <td align="center">40</td>
   </tr>
@@ -102,13 +102,13 @@
   <tr>
     <td align="center">#8</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">106</td>
+    <td align="center">99</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
 </table>
 
-<p align="center"><sub>2026-06-23 07:42 UTC</sub></p>
+<p align="center"><sub>2026-06-24 09:49 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
