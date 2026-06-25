@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="center"><strong>4</strong><br/>issues</td>
-    <td align="center"><strong>59</strong><br/>stars</td>
+    <td align="center"><strong>60</strong><br/>stars</td>
     <td align="center"><strong>8</strong><br/>forks</td>
     <td align="center"><strong>251k</strong><br/>indexed commits</td>
   </tr>
@@ -54,15 +54,15 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">22k</td>
-    <td align="center">788</td>
+    <td align="center">786</td>
     <td align="center">1.5k</td>
   </tr>
   <tr>
     <td align="center">#2</td>
-    <td align="center"><a href="https://github.com/GalactHD">GalactHD</a></td>
-    <td align="center">28</td>
-    <td align="center">11</td>
-    <td align="center">1.4k</td>
+    <td align="center"><a href="https://github.com/helallao">helallao</a></td>
+    <td align="center">11k</td>
+    <td align="center">1.7k</td>
+    <td align="center">400</td>
   </tr>
   <tr>
     <td align="center">#3</td>
@@ -83,12 +83,12 @@
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
     <td align="center">28</td>
     <td align="center">42</td>
-    <td align="center">790</td>
+    <td align="center">791</td>
   </tr>
   <tr>
     <td align="center">#6</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">201</td>
+    <td align="center">204</td>
     <td align="center">35</td>
     <td align="center">40</td>
   </tr>
@@ -102,13 +102,13 @@
   <tr>
     <td align="center">#8</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">99</td>
+    <td align="center">104</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
 </table>
 
-<p align="center"><sub>2026-06-24 09:49 UTC</sub></p>
+<p align="center"><sub>2026-06-25 09:41 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
