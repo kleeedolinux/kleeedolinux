@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center"><strong>1.9k</strong><br/>year contributions</td>
-    <td align="center"><strong>1.8k</strong><br/>commit signal incl. private</td>
+    <td align="center"><strong>1.9k</strong><br/>commit signal incl. private</td>
     <td align="center"><strong>5</strong><br/>pull requests</td>
     <td align="center"><strong>0</strong><br/>reviews</td>
   </tr>
@@ -25,11 +25,11 @@
     <td align="center"><strong>4</strong><br/>issues</td>
     <td align="center"><strong>60</strong><br/>stars</td>
     <td align="center"><strong>8</strong><br/>forks</td>
-    <td align="center"><strong>251k</strong><br/>indexed commits</td>
+    <td align="center"><strong>261k</strong><br/>indexed commits</td>
   </tr>
 </table>
 
-<p align="center"><sub>253/365 active days - best day 2026-06-23 / 238 - 1.6k private-visible</sub></p>
+<p align="center"><sub>255/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -54,7 +54,7 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">22k</td>
-    <td align="center">786</td>
+    <td align="center">794</td>
     <td align="center">1.5k</td>
   </tr>
   <tr>
@@ -73,42 +73,42 @@
   </tr>
   <tr>
     <td align="center">#4</td>
-    <td align="center"><a href="https://github.com/campoyerick">campoyerick</a></td>
-    <td align="center">10</td>
-    <td align="center">5</td>
-    <td align="center">1.3k</td>
-  </tr>
-  <tr>
-    <td align="center">#5</td>
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
     <td align="center">28</td>
     <td align="center">42</td>
-    <td align="center">791</td>
+    <td align="center">796</td>
   </tr>
   <tr>
-    <td align="center">#6</td>
+    <td align="center">#5</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">204</td>
-    <td align="center">35</td>
+    <td align="center">206</td>
+    <td align="center">36</td>
     <td align="center">40</td>
   </tr>
   <tr>
-    <td align="center">#7</td>
+    <td align="center">#6</td>
     <td align="center"><a href="https://github.com/yanlvl99">yanlvl99</a></td>
     <td align="center">6</td>
     <td align="center">2</td>
     <td align="center">457</td>
   </tr>
   <tr>
-    <td align="center">#8</td>
+    <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
     <td align="center">104</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
+  <tr>
+    <td align="center">#8</td>
+    <td align="center"><a href="https://github.com/irlanferreira">irlanferreira</a></td>
+    <td align="center">62</td>
+    <td align="center">20</td>
+    <td align="center">50</td>
+  </tr>
 </table>
 
-<p align="center"><sub>2026-06-25 09:41 UTC</sub></p>
+<p align="center"><sub>2026-06-27 08:48 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
