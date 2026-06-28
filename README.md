@@ -16,7 +16,7 @@
 <!-- PROFILE-INTEL:START -->
 <table align="center">
   <tr>
-    <td align="center"><strong>1.9k</strong><br/>year contributions</td>
+    <td align="center"><strong>2.0k</strong><br/>year contributions</td>
     <td align="center"><strong>1.9k</strong><br/>commit signal incl. private</td>
     <td align="center"><strong>5</strong><br/>pull requests</td>
     <td align="center"><strong>0</strong><br/>reviews</td>
@@ -24,17 +24,17 @@
   <tr>
     <td align="center"><strong>4</strong><br/>issues</td>
     <td align="center"><strong>60</strong><br/>stars</td>
-    <td align="center"><strong>8</strong><br/>forks</td>
+    <td align="center"><strong>9</strong><br/>forks</td>
     <td align="center"><strong>261k</strong><br/>indexed commits</td>
   </tr>
 </table>
 
-<p align="center"><sub>255/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
+<p align="center"><sub>251/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
 
-- [kleeedolinux/SolVM](https://github.com/kleeedolinux/SolVM) - 19 stars, 0 forks, Go
+- [kleeedolinux/SolVM](https://github.com/kleeedolinux/SolVM) - 19 stars, 1 forks, Go
 - [kleeedolinux/KleeStores](https://github.com/kleeedolinux/KleeStores) - 14 stars, 0 forks, C#
 - [kleeedolinux/tabnews-cli](https://github.com/kleeedolinux/tabnews-cli) - 4 stars, 1 forks, Python
 - [kleeedolinux/jdruby](https://github.com/kleeedolinux/jdruby) - 4 stars, 0 forks, Rust
@@ -53,8 +53,8 @@
   <tr>
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
-    <td align="center">22k</td>
-    <td align="center">794</td>
+    <td align="center">23k</td>
+    <td align="center">837</td>
     <td align="center">1.5k</td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
   <tr>
     <td align="center">#5</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">206</td>
+    <td align="center">209</td>
     <td align="center">36</td>
     <td align="center">40</td>
   </tr>
@@ -95,7 +95,7 @@
   <tr>
     <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">104</td>
+    <td align="center">105</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-06-27 08:48 UTC</sub></p>
+<p align="center"><sub>2026-06-28 09:29 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
