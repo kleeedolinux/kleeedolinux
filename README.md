@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>251/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
+<p align="center"><sub>252/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -54,7 +54,7 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">23k</td>
-    <td align="center">838</td>
+    <td align="center">840</td>
     <td align="center">1.5k</td>
   </tr>
   <tr>
@@ -76,12 +76,12 @@
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
     <td align="center">28</td>
     <td align="center">42</td>
-    <td align="center">795</td>
+    <td align="center">796</td>
   </tr>
   <tr>
     <td align="center">#5</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">217</td>
+    <td align="center">218</td>
     <td align="center">36</td>
     <td align="center">40</td>
   </tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-06-29 11:22 UTC</sub></p>
+<p align="center"><sub>2026-06-30 09:58 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
