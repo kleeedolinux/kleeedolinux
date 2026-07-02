@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>252/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
+<p align="center"><sub>253/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -54,7 +54,7 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">23k</td>
-    <td align="center">840</td>
+    <td align="center">842</td>
     <td align="center">1.5k</td>
   </tr>
   <tr>
@@ -62,40 +62,40 @@
     <td align="center"><a href="https://github.com/helallao">helallao</a></td>
     <td align="center">11k</td>
     <td align="center">1.7k</td>
-    <td align="center">391</td>
+    <td align="center">395</td>
   </tr>
   <tr>
     <td align="center">#3</td>
+    <td align="center"><a href="https://github.com/seckinyasar">seckinyasar</a></td>
+    <td align="center">10k</td>
+    <td align="center">273</td>
+    <td align="center">629</td>
+  </tr>
+  <tr>
+    <td align="center">#4</td>
     <td align="center"><a href="https://github.com/StunxFS">StunxFS</a></td>
     <td align="center">54</td>
     <td align="center">67</td>
     <td align="center">1.1k</td>
   </tr>
   <tr>
-    <td align="center">#4</td>
+    <td align="center">#5</td>
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
-    <td align="center">28</td>
+    <td align="center">29</td>
     <td align="center">42</td>
-    <td align="center">796</td>
+    <td align="center">799</td>
   </tr>
   <tr>
-    <td align="center">#5</td>
+    <td align="center">#6</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">218</td>
+    <td align="center">220</td>
     <td align="center">36</td>
     <td align="center">40</td>
   </tr>
   <tr>
-    <td align="center">#6</td>
-    <td align="center"><a href="https://github.com/yanlvl99">yanlvl99</a></td>
-    <td align="center">6</td>
-    <td align="center">2</td>
-    <td align="center">457</td>
-  </tr>
-  <tr>
     <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">104</td>
+    <td align="center">98</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-06-30 09:58 UTC</sub></p>
+<p align="center"><sub>2026-07-02 09:30 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
