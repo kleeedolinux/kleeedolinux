@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>255/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
+<p align="center"><sub>249/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -55,7 +55,7 @@
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">23k</td>
     <td align="center">845</td>
-    <td align="center">1.5k</td>
+    <td align="center">1.6k</td>
   </tr>
   <tr>
     <td align="center">#2</td>
@@ -69,14 +69,14 @@
     <td align="center"><a href="https://github.com/seckinyasar">seckinyasar</a></td>
     <td align="center">10k</td>
     <td align="center">278</td>
-    <td align="center">629</td>
+    <td align="center">630</td>
   </tr>
   <tr>
     <td align="center">#4</td>
     <td align="center"><a href="https://github.com/StunxFS">StunxFS</a></td>
     <td align="center">54</td>
     <td align="center">67</td>
-    <td align="center">1.1k</td>
+    <td align="center">1.2k</td>
   </tr>
   <tr>
     <td align="center">#5</td>
@@ -88,14 +88,14 @@
   <tr>
     <td align="center">#6</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">223</td>
+    <td align="center">225</td>
     <td align="center">36</td>
     <td align="center">40</td>
   </tr>
   <tr>
     <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">112</td>
+    <td align="center">111</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-07-04 08:49 UTC</sub></p>
+<p align="center"><sub>2026-07-05 09:21 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
