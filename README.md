@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center"><strong>2.0k</strong><br/>year contributions</td>
-    <td align="center"><strong>2.0k</strong><br/>commit signal incl. private</td>
+    <td align="center"><strong>1.9k</strong><br/>commit signal incl. private</td>
     <td align="center"><strong>5</strong><br/>pull requests</td>
     <td align="center"><strong>0</strong><br/>reviews</td>
   </tr>
@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>249/365 active days - best day 2026-06-23 / 242 - 1.6k private-visible</sub></p>
+<p align="center"><sub>250/365 active days - best day 2026-06-23 / 242 - 1.5k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -54,7 +54,7 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">23k</td>
-    <td align="center">845</td>
+    <td align="center">848</td>
     <td align="center">1.6k</td>
   </tr>
   <tr>
@@ -68,13 +68,13 @@
     <td align="center">#3</td>
     <td align="center"><a href="https://github.com/seckinyasar">seckinyasar</a></td>
     <td align="center">10k</td>
-    <td align="center">278</td>
-    <td align="center">630</td>
+    <td align="center">281</td>
+    <td align="center">631</td>
   </tr>
   <tr>
     <td align="center">#4</td>
     <td align="center"><a href="https://github.com/StunxFS">StunxFS</a></td>
-    <td align="center">54</td>
+    <td align="center">55</td>
     <td align="center">67</td>
     <td align="center">1.2k</td>
   </tr>
@@ -83,7 +83,7 @@
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
     <td align="center">28</td>
     <td align="center">43</td>
-    <td align="center">799</td>
+    <td align="center">811</td>
   </tr>
   <tr>
     <td align="center">#6</td>
@@ -95,7 +95,7 @@
   <tr>
     <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">111</td>
+    <td align="center">112</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-07-05 09:21 UTC</sub></p>
+<p align="center"><sub>2026-07-07 09:58 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
