@@ -119,7 +119,7 @@
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=kleeedolinux&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kleeedolinux&layout=compact&langs_count=8&hide_border=true&theme=transparent&hide=html,css&card_width=495" alt="languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleeedolinux&theme=transparent" alt="languages" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:111827,55:0f766e,100:0f172a" alt="footer wave" />
 
