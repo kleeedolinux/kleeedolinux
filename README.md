@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>251/365 active days - best day 2026-06-23 / 242 - 1.5k private-visible</sub></p>
+<p align="center"><sub>252/365 active days - best day 2026-06-23 / 242 - 1.5k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -108,7 +108,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>2026-07-10 03:56 UTC</sub></p>
+<p align="center"><sub>2026-07-10 05:58 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
