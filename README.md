@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>250/365 active days - best day 2026-06-23 / 242 - 1.5k private-visible</sub></p>
+<p align="center"><sub>251/365 active days - best day 2026-06-23 / 242 - 1.5k private-visible</sub></p>
 
 <details>
 <summary><strong>top repositories</strong></summary>
@@ -54,21 +54,21 @@
     <td align="center">#1</td>
     <td align="center"><a href="https://github.com/standardgalactic">standardgalactic</a></td>
     <td align="center">23k</td>
-    <td align="center">848</td>
+    <td align="center">847</td>
     <td align="center">1.6k</td>
   </tr>
   <tr>
     <td align="center">#2</td>
     <td align="center"><a href="https://github.com/helallao">helallao</a></td>
-    <td align="center">11k</td>
-    <td align="center">1.7k</td>
+    <td align="center">12k</td>
+    <td align="center">1.8k</td>
     <td align="center">442</td>
   </tr>
   <tr>
     <td align="center">#3</td>
     <td align="center"><a href="https://github.com/seckinyasar">seckinyasar</a></td>
-    <td align="center">10k</td>
-    <td align="center">281</td>
+    <td align="center">11k</td>
+    <td align="center">279</td>
     <td align="center">631</td>
   </tr>
   <tr>
@@ -82,33 +82,33 @@
     <td align="center">#5</td>
     <td align="center"><a href="https://github.com/HarukaYamamoto0">HarukaYamamoto0</a></td>
     <td align="center">28</td>
-    <td align="center">43</td>
-    <td align="center">811</td>
+    <td align="center">44</td>
+    <td align="center">828</td>
   </tr>
   <tr>
     <td align="center">#6</td>
     <td align="center"><a href="https://github.com/simples1">simples1</a></td>
-    <td align="center">225</td>
-    <td align="center">36</td>
+    <td align="center">230</td>
+    <td align="center">35</td>
     <td align="center">40</td>
   </tr>
   <tr>
     <td align="center">#7</td>
     <td align="center"><a href="https://github.com/userick17">userick17</a></td>
-    <td align="center">112</td>
+    <td align="center">109</td>
     <td align="center">3</td>
     <td align="center">1</td>
   </tr>
   <tr>
     <td align="center">#8</td>
-    <td align="center"><a href="https://github.com/YagoCrispim">YagoCrispim</a></td>
-    <td align="center">44</td>
-    <td align="center">4</td>
-    <td align="center">141</td>
+    <td align="center"><a href="https://github.com/irlanferreira">irlanferreira</a></td>
+    <td align="center">65</td>
+    <td align="center">20</td>
+    <td align="center">50</td>
   </tr>
 </table>
 
-<p align="center"><sub>2026-07-07 09:58 UTC</sub></p>
+<p align="center"><sub>2026-07-10 03:56 UTC</sub></p>
 <!-- PROFILE-INTEL:END -->
 
 <div align="center">
