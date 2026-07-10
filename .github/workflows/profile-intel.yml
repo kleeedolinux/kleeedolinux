@@ -8,7 +8,6 @@ on:
     branches:
       - main
     paths:
-      - "README.md"
       - "scripts/update_profile_intel.py"
       - ".github/workflows/profile-intel.yml"
 
@@ -28,12 +27,13 @@ jobs:
 
       - name: Generate GitHub evidence block
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
+          REQUIRE_PRIVATE_REPOS: "true"
         run: python scripts/update_profile_intel.py
 
       - name: Commit README refresh
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update profile intelligence"
-          file_pattern: README.md
+          file_pattern: README.md languages.svg

@@ -6,6 +6,7 @@ import json
 import os
 import sys
 from datetime import datetime, timezone
+from html import escape
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -13,6 +14,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
+LANGUAGES = ROOT / "languages.svg"
 START = "<!-- PROFILE-INTEL:START -->"
 END = "<!-- PROFILE-INTEL:END -->"
 
@@ -58,6 +60,94 @@ def compact_number(value: int) -> str:
     return str(value)
 
 
+def language_data(user: dict, require_private: bool = False) -> tuple[list[dict], int, int]:
+    totals: dict[str, dict] = {}
+    repositories = [repo for repo in user["repositories"]["nodes"] if repo and not repo["isFork"]]
+    private_count = sum(1 for repo in repositories if repo["isPrivate"])
+    if require_private and private_count == 0:
+        raise RuntimeError(
+            "PROFILE_TOKEN cannot see any private repositories; grant it read access to private repositories"
+        )
+
+    for repo in repositories:
+        for edge in (repo.get("languages") or {}).get("edges") or []:
+            language = edge.get("node") or {}
+            name = language.get("name")
+            if not name or name.lower() in {"html", "css"}:
+                continue
+            entry = totals.setdefault(
+                name,
+                {"name": name, "color": language.get("color") or "#8b949e", "size": 0},
+            )
+            entry["size"] += safe_int(edge.get("size"))
+
+    ranked = sorted(totals.values(), key=lambda item: item["size"], reverse=True)[:8]
+    return ranked, len(repositories), private_count
+
+
+def build_languages_svg(user: dict, require_private: bool = False) -> str:
+    languages, repository_count, private_count = language_data(user, require_private)
+    total = sum(language["size"] for language in languages)
+    if not languages or total == 0:
+        raise RuntimeError("GitHub returned no language data")
+
+    bar_width = 447
+    bar_x = 24
+    segments = []
+    cursor = bar_x
+    for index, language in enumerate(languages):
+        segment_width = bar_width * language["size"] / total
+        if index == len(languages) - 1:
+            segment_width = bar_x + bar_width - cursor
+        segments.append(
+            f'<rect x="{cursor:.2f}" y="61" width="{segment_width:.2f}" height="10" '
+            f'fill="{escape(language["color"], quote=True)}" />'
+        )
+        cursor += segment_width
+
+    labels = []
+    for index, language in enumerate(languages):
+        column = index % 2
+        row = index // 2
+        x = 24 + column * 235
+        y = 105 + row * 30
+        percentage = language["size"] * 100 / total
+        labels.extend(
+            [
+                f'<circle cx="{x + 6}" cy="{y - 4}" r="6" fill="{escape(language["color"], quote=True)}" />',
+                f'<text x="{x + 19}" y="{y}" class="language">{escape(language["name"])}</text>',
+                f'<text x="{x + 211}" y="{y}" text-anchor="end" class="percentage">{percentage:.1f}%</text>',
+            ]
+        )
+
+    subtitle = f"{repository_count} repositories · {private_count} private included"
+    return "\n".join(
+        [
+            '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="235" viewBox="0 0 495 235" role="img" aria-labelledby="title description">',
+            '  <title id="title">Most Used Languages</title>',
+            f'  <desc id="description">Language usage by code size across {repository_count} repositories, including {private_count} private repositories.</desc>',
+            "  <style>",
+            "    .title { fill: #e6edf3; font: 600 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }",
+            "    .subtitle, .percentage { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }",
+            "    .language { fill: #c9d1d9; font: 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }",
+            "    @media (prefers-color-scheme: light) {",
+            "      .title { fill: #1f2328; } .language { fill: #24292f; } .subtitle, .percentage { fill: #57606a; }",
+            "    }",
+            "  </style>",
+            '  <defs><clipPath id="language-bar"><rect x="24" y="61" width="447" height="10" rx="5" /></clipPath></defs>',
+            '  <rect x="0.5" y="0.5" width="494" height="234" rx="7" fill="none" stroke="#30363d" />',
+            '  <text x="24" y="32" class="title">Most Used Languages</text>',
+            f'  <text x="471" y="31" text-anchor="end" class="subtitle">{escape(subtitle)}</text>',
+            '  <g clip-path="url(#language-bar)">',
+            *[f"    {segment}" for segment in segments],
+            "  </g>",
+            *[f"  {label}" for label in labels],
+            "</svg>",
+            "",
+        ]
+    )
+
+
 def profile_query(token: str, login: str) -> dict:
     query = """
     query($login: String!) {
@@ -78,6 +168,12 @@ def profile_query(token: str, login: str) -> dict:
             forkCount
             pushedAt
             primaryLanguage { name }
+            languages(first: 20, orderBy: {field: SIZE, direction: DESC}) {
+              edges {
+                size
+                node { name color }
+              }
+            }
             defaultBranchRef {
               target {
                 ... on Commit {
@@ -290,6 +386,7 @@ def replace_block(readme: str, block: str) -> str:
 def main() -> int:
     token = os.environ.get("GITHUB_TOKEN", "")
     login = os.environ.get("GITHUB_USER", "kleeedolinux")
+    require_private = os.environ.get("REQUIRE_PRIVATE_REPOS", "").lower() in {"1", "true", "yes"}
     if not token:
         print("GITHUB_TOKEN is required", file=sys.stderr)
         return 1
@@ -297,10 +394,12 @@ def main() -> int:
         user = profile_query(token, login)
         followers = follower_signal(token, follower_logins(token, login))
         block = build_block(user, followers)
+        languages_svg = build_languages_svg(user, require_private=require_private)
     except (HTTPError, URLError, RuntimeError, KeyError) as exc:
         print(f"Could not refresh profile intelligence: {exc}", file=sys.stderr)
         return 1
     README.write_text(replace_block(README.read_text(encoding="utf-8"), block), encoding="utf-8")
+    LANGUAGES.write_text(languages_svg, encoding="utf-8")
     return 0
 
 
