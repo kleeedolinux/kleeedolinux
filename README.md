@@ -117,7 +117,6 @@
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kleeedolinux&theme=github-compact&hide_border=true&area=true&custom_title=contribution%20velocity" alt="activity graph" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kleeedolinux&theme=transparent" alt="languages" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:111827,55:0f766e,100:0f172a" alt="footer wave" />
 
